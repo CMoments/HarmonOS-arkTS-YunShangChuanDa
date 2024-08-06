@@ -26,19 +26,17 @@
 
 ![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%876.png)
 
-![image](https://note.youdao.com/yws/res/e/WEBRESOURCEcda21f8ac65fc0708ad2e8e639b0c67e)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%875.png)
+
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%874.png)
 
 ![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/e9e15e891123ba836d2dd71f133c478.jpg)
 
-![image](https://note.youdao.com/yws/res/b/WEBRESOURCE97a868a76c1bb59c664b493b0db51d5b)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%873.png)
 
-![image](https://note.youdao.com/yws/res/b/WEBRESOURCE13d331ae445788706212c27f6cca314b)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%872.png)
 
-![image](https://note.youdao.com/yws/res/1/WEBRESOURCE7bf3bad6083c819b294f58c73dafa141)
-
-![image](https://note.youdao.com/yws/res/7/WEBRESOURCEf3dce12f684be6e18789f3373181b257)
-
-![image](https://note.youdao.com/yws/res/4/WEBRESOURCE9fa2a20c8aadfae58a2e62e254fa1ee4)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%871.png)
 
 开发者名单：
 
