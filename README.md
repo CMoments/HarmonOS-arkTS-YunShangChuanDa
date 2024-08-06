@@ -28,7 +28,7 @@
 
 ![image](https://note.youdao.com/yws/res/e/WEBRESOURCEcda21f8ac65fc0708ad2e8e639b0c67e)
 
-![image](https://note.youdao.com/yws/res/4/WEBRESOURCE0dc1f32fccc26b32d1bb540c93388134)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/e9e15e891123ba836d2dd71f133c478.jpg)
 
 ![image](https://note.youdao.com/yws/res/b/WEBRESOURCE97a868a76c1bb59c664b493b0db51d5b)
 
