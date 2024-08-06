@@ -24,7 +24,7 @@
 
 **界面展示图：**
 
-![image](https://note.youdao.com/yws/res/8/WEBRESOURCE9819e2e96d3583fbd82c2333be093f48)
+![image](https://github.com/CMoments/desktop-tutorial/blob/main/READMEimages/%E5%9B%BE%E7%89%876.png)
 
 ![image](https://note.youdao.com/yws/res/e/WEBRESOURCEcda21f8ac65fc0708ad2e8e639b0c67e)
 
