@@ -1,4 +1,4 @@
-> **HarmonyOS是一套可运行于各类智能设备的新一代操作系统，让不同的智能设备能够同一种语言，实现更好的连接与协同，为全场景带来简洁、流畅、连续、安全、可靠的交互体验。**
+> **HarmonyOS是一套可运行于各类智能设备的新一代操作系统，让不同的智能设备能够同一种语言，实现更好的连接与协同，为全场景带来简洁、流畅、连续、安全可靠的交互体验。**
 
 **HarmonyOS is a next-gen operating system that can run on a wide range of smart devices. It enables different smart devices to speak the same language, facilitating better connection and collaboration, and bringing a simple, smooth, continuous, secure and reliable interaction experience in all scenarios.**
 
